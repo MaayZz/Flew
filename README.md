@@ -46,13 +46,20 @@ Flew/
     └── img/
 ```
 
-## Pour cloner le dépot :
+## Les commandes utiles :
+
+### Pour cloner le dépot :
+```code
 git clone [https://github.com/MaayZz/Flew.git](https://github.com/MaayZz/Flew.git)
 cd Flew
-
-## Installer les dépendances :
+```
+### Installer les dépendances :
+```code
 pip install -r requirements.txt
+```
 
-## Lancer l'application :
+### Lancer l'application :
+```code
 streamlit run src/app.py
+```
  
