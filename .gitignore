@@ -1,0 +1,4 @@
+data/flew.db
+__pycache__/
+*.pyc
+docs/
