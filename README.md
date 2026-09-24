@@ -44,7 +44,7 @@ Flew/
 │       └── scorer.py
 └── assets/
     └── img/
-
+```
 
 ## Pour cloner le dépot :
 git clone [https://github.com/MaayZz/Flew.git](https://github.com/MaayZz/Flew.git)
