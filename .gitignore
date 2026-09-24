@@ -1,4 +1,5 @@
 data/flew.db
 __pycache__/
 *.pyc
-docs/
+docs/.DS_Store
+**/._DS_Store
